@@ -12275,7 +12275,7 @@ var Scratch3ML2ScratchBlocks = /*#__PURE__*/function () {
     value: function getInfo() {
       this.locale = this.setLocale();
       return {
-        id: 'ml2scratch',
+        id: 'xcratchExample',
         name: 'ML2Scratch',
         blockIconURI: blockIconURI,
         blocks: [{
