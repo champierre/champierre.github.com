@@ -8449,9 +8449,9 @@ var translationMap = {
   }
 };
 var entry = {
-  name: 'Xcratch Example',
-  extensionId: 'xcratchExample',
-  extensionURL: 'https://yokobond.github.io/xcratch-example/dist/xcratchExample.mjs',
+  name: 'ML2Scratch',
+  extensionId: 'ml2scratch',
+  extensionURL: 'https://champierre.github.io/ml2scratch.mjs',
   collaborator: 'Yengawa Lab',
   iconURL: img$1,
   insetIconURL: img,
@@ -12977,6 +12977,6 @@ var Scratch3ML2ScratchBlocks = /*#__PURE__*/function () {
   return Scratch3ML2ScratchBlocks;
 }();
 
-var _xcratchExample = Scratch3ML2ScratchBlocks;
+var _ml2scratch = Scratch3ML2ScratchBlocks;
 
-export { _xcratchExample as __moduleExports, entry };
+export { _ml2scratch as __moduleExports, entry };
