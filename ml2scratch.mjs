@@ -13021,6 +13021,8 @@ var Scratch3ML2ScratchBlocks = /*#__PURE__*/function () {
   return Scratch3ML2ScratchBlocks;
 }();
 
+var blockClass = Scratch3ML2ScratchBlocks;
 var _ml2scratch = Scratch3ML2ScratchBlocks;
+_ml2scratch.blockClass = blockClass;
 
-export { _ml2scratch as __moduleExports, entry };
+export { _ml2scratch as __moduleExports, blockClass, entry };
